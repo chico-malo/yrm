@@ -3,6 +3,10 @@
     "home": "https://www.npmjs.org",
     "registry": "https://registry.npmjs.org"
   },
+  "snpm": {
+    "home": "http://snpm-web.sto.cn",
+    "registry": "http://snpm-registry.sto.cn"
+  },
   "yarn": {
     "home": "https://yarnpkg.com",
     "registry": "https://registry.yarnpkg.com"
